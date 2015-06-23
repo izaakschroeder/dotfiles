@@ -1,0 +1,16 @@
+[user]
+        name = Izaak Schroeder
+        email = izaak.schroeder@gmail.com
+[mergetool]
+        keepBackup = true
+[push]
+        default = simple
+[branch]
+        autosetuprebase = always
+[core]
+        editor = vim
+        excludesfile = ${HOME}/.gitignore
+[merge]
+        ff = false
+[remote]
+        prune = true
